@@ -1,0 +1,76 @@
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=oracle.cs.purdue.edu)(PORT=1521))(CONNECT_DATA=(SID=orb)(CID=(PROGRAM=sqlplus)(HOST=sslab14.cs.purdue.edu)(USER=fhou))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.3.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.3.0 - Production
+  Time: 04-FEB-2013 00:17:17
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Message 12545 not found; No message file for product=network, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Message 515 not found; No message file for product=network, facility=TNS
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=oracle.cs.purdue.edu)(PORT=1521))(CONNECT_DATA=(SID=orb)(CID=(PROGRAM=sqlplus)(HOST=sslab14.cs.purdue.edu)(USER=fhou))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.3.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.3.0 - Production
+  Time: 04-FEB-2013 00:17:50
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Message 12545 not found; No message file for product=network, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Message 515 not found; No message file for product=network, facility=TNS
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=oracle.cs.purdue.edu)(PORT=1521))(CONNECT_DATA=(SID=orb)(CID=(PROGRAM=sqlplus)(HOST=sslab14.cs.purdue.edu)(USER=fhou))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.3.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.3.0 - Production
+  Time: 04-FEB-2013 00:18:35
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Message 12545 not found; No message file for product=network, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Message 515 not found; No message file for product=network, facility=TNS
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=oracle.cs.purdue.edu)(PORT=1521))(CONNECT_DATA=(SID=orb)(CID=(PROGRAM=sqlplus)(HOST=sslab14.cs.purdue.edu)(USER=fhou))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.3.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.3.0 - Production
+  Time: 04-FEB-2013 00:19:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Message 12545 not found; No message file for product=network, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Message 515 not found; No message file for product=network, facility=TNS
+    nt secondary err code: 0
+    nt OS err code: 0
