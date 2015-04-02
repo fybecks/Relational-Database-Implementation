@@ -1,0 +1,5 @@
+name:Fangyuan Hou 
+
+I passed the test cases 1,2,3. but I didn't find a way to implement the LRU-LA policy, therefore failed to get the bonus, instead I used clock policy to realize buffer replacement.
+
+I finished the whole project without a teammate.
