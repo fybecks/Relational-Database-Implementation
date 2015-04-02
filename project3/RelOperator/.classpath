@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="RelOperator/src"/>
+	<classpathentry kind="lib" path="RelOperator/lib/bufmgr.jar"/>
+	<classpathentry kind="lib" path="RelOperator/lib/diskmgr.jar"/>
+	<classpathentry kind="lib" path="RelOperator/lib/heap.jar"/>
+	<classpathentry kind="lib" path="RelOperator/lib/index.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="RelOperator/bin"/>
+</classpath>
