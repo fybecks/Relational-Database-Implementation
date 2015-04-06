@@ -1,1 +1,3 @@
-In this project, I passed three tests, but in the third one, I couldn't implement it using external sort, instead, I just used ordinary merge sort. I completed this project on my own. I referred to some online source code, but never copied it. makefile is at the same level with bin, lib and src folders. 
+In this project, I passed three tests, but in the third one, instead of using external sort, used merge sort, where the codes are in the foler project3/RelOperator/RelOperator/src/externalSort/.
+
+On the other hand, relational operator is implemented in the folder project3/RelOperator/RelOperator/src/relop/
