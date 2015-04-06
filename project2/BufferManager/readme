@@ -1,5 +1,5 @@
 name:Fangyuan Hou 
 
-I passed the test cases 1,2,3. but I didn't find a way to implement the LRU-LA policy, therefore failed to get the bonus, instead I used clock policy to realize buffer replacement.
+This is an individual project in which a buffer manager was implemented by myself. The codes reside in the folder project2/BufferManager/src/bufmgr/, where I implemented Hash entry, page pinning, page unpinning, frame descriptor, and in bufmgr.java, I implemented LRU scheduling method for page replacement.
 
-I finished the whole project without a teammate.
+I passed the test cases 1,2,3. 
